@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "targets": [
+    {
+      "target": "twinui.pcshell",
+      "file": "twinui.pcshell.dll",
+      "index": "twinui.pcshell/index.json",
+      "latest": "478851127-FCFCF4EFC4BB468AC3C12242EB80463A-1",
+      "build_count": 1
+    }
+  ]
+}
